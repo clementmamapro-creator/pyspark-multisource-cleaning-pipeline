@@ -1,0 +1,5 @@
+# Dependances Python du pipeline TP Multisource.
+# PySpark et les connecteurs Java (PostgreSQL, MongoDB) sont fournis
+# via l'option --packages de spark-submit (voir README.md), pas via pip.
+
+pyspark==3.5.1

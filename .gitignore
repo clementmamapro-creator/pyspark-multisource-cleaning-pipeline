@@ -1,0 +1,8 @@
+# Donnees et sorties volumineuses : ne pas versionner
+data/delivery_events/*.json
+output/**/*.parquet
+output/**/_SUCCESS
+output/**/*.crc
+.ivy2/
+*.pyc
+__pycache__/
